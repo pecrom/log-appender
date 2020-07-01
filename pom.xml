@@ -35,7 +35,7 @@
         <elastic.version>7.5.0</elastic.version>
         <jackson.version>2.10.1</jackson.version>
         <lombok.version>1.18.10</lombok.version>
-        <log4j.version>2.13.0</log4j.version>
+        <log4j.version>2.13.3</log4j.version>
         <commons-lang.version>3.9</commons-lang.version>
         <vavr.version>0.10.2</vavr.version>
     </properties>
