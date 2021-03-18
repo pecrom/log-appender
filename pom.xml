@@ -32,7 +32,7 @@
         <commons-collection.version>4.4</commons-collection.version>
         <mockito.version>3.2.0</mockito.version>
         <jupiter.version>5.6.0-M1</jupiter.version>
-        <elastic.version>7.5.0</elastic.version>
+        <elastic.version>7.11.2</elastic.version>
         <jackson.version>2.10.1</jackson.version>
         <lombok.version>1.18.10</lombok.version>
         <log4j.version>2.13.0</log4j.version>
